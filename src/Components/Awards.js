@@ -8,13 +8,18 @@ const Awards = () => {
         <ul className="fa-ul mb-0">
           <li>
             <span className="fa-li">
-              <i className="fas fa-trophy text-warning" />
+              <i className="fas fa-certificate text-warning" />
             </span>
+            {/* <span
+              class="iconify text-warning"
+              data-icon="mdi:certificate"
+              data-inline="false"
+            /> */}
             Fullstack Developement Certification from GUVI,IITM Chennai
           </li>
           <li>
             <span className="fa-li">
-              <i className="fas fa-trophy text-warning" />
+              <i className="fas fa-certificate text-warning" />
             </span>
             IBM DB2 Fundamentals - IBM Certification
           </li>

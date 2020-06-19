@@ -19,15 +19,21 @@ const Projects = () => {
               for the topics explained and have some practice excersise.
             </p>
             You can access the site in heroku :{" "}
-            <a href="https://techsite-learnjava.herokuapp.com/">
+            <a href="https://techsite-learnjava.herokuapp.com/" target="blank">
               Heroku application link
             </a>
             <br />
-            <a href="https://github.com/amahock/LearnJava-site-creation-frontend">
+            <a
+              href="https://github.com/amahock/LearnJava-site-creation-frontend"
+              target="blank"
+            >
               Fronend Github link
             </a>
             <br />
-            <a href="https://github.com/amahock/LearnJava-site-creation-Backend">
+            <a
+              href="https://github.com/amahock/LearnJava-site-creation-Backend"
+              target="blank"
+            >
               Backend Github Link
             </a>
           </div>
@@ -46,11 +52,13 @@ const Projects = () => {
               share the results through scocial media like facebook,whasapp,
               etc...
             </p>
-            <a href="https://abcschool-quiz-app.herokuapp.com/">
+            <a href="https://abcschool-quiz-app.herokuapp.com/" target="blank">
               Heroku Application Link
             </a>
-            <br/>
-            <a href="https://github.com/amahock/quiz-app">Github Link</a>
+            <br />
+            <a href="https://github.com/amahock/quiz-app" target="blank">
+              Github Link
+            </a>
           </div>
           {/* <div className="flex-shrink-0">
             <span className="text-primary">June 2012 - July 2015</span>
