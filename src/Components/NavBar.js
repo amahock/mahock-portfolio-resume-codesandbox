@@ -47,6 +47,11 @@ const NavBar = () => {
             </a> */}
           </li>
           <li className="nav-item">
+            <Link className="nav-link js-scroll-trigger" to={routes.projects}>
+              Projects
+            </Link>
+          </li>
+          <li className="nav-item">
             <Link className="nav-link js-scroll-trigger" to={routes.education}>
               Education
             </Link>

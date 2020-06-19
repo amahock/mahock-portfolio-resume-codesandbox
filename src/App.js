@@ -9,6 +9,7 @@ import Education from "./Components/Education";
 import Skills from "./Components/Skills";
 import Interests from "./Components/Interests";
 import Awards from "./Components/Awards";
+import Projects from "./Components/Projects";
 
 export default function App() {
   const location = useLocation();
@@ -34,6 +35,9 @@ export default function App() {
           </Route>
           <Route path={routes.experience}>
             <Experience />
+          </Route>
+          <Route path={routes.projects}>
+            <Projects />
           </Route>
           <Route path={routes.education}>
             <Education />

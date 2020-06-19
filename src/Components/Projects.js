@@ -18,7 +18,18 @@ const Projects = () => {
               languageand the syntax. The documents are containing the examples
               for the topics explained and have some practice excersise.
             </p>
-            You can access the site in heroku : <a href="https://techsite-learnjava.herokuapp.com/">Heroku application link</a>
+            You can access the site in heroku :{" "}
+            <a href="https://techsite-learnjava.herokuapp.com/">
+              Heroku application link
+            </a>
+            <br />
+            <a href="https://github.com/amahock/LearnJava-site-creation-frontend">
+              Fronend Github link
+            </a>
+            <br />
+            <a href="https://github.com/amahock/LearnJava-site-creation-Backend">
+              Backend Github Link
+            </a>
           </div>
           {/* <div className="flex-shrink-0">
             <span className="text-primary">August 2015 - Present</span>
@@ -35,6 +46,26 @@ const Projects = () => {
               share the results through scocial media like facebook,whasapp,
               etc...
             </p>
+            <a href="https://abcschool-quiz-app.herokuapp.com/">
+              Heroku Application Link
+            </a>
+            <a href="https://github.com/amahock/quiz-app">Github Link</a>
+          </div>
+          {/* <div className="flex-shrink-0">
+            <span className="text-primary">June 2012 - July 2015</span>
+          </div> */}
+        </div>
+        <div className="d-flex flex-column flex-md-row justify-content-between mb-5">
+          <div className="flex-grow-1">
+            <h3 className="mb-0">Bus Reservation System</h3>
+            {/* <div className="subheading mb-3">Tata Consultancy Services</div> */}
+            <p>
+              Developed a bus ticket booking application using MERN package. It
+              will allow the user to login and check the bus and the
+              availability of the seats.
+            </p>
+            {/* <a href="https://abcschool-quiz-app.herokuapp.com/">Heroku Application Link</a> */}
+            {/* <a href="https://github.com/amahock/quiz-app">Github Link</a> */}
           </div>
           {/* <div className="flex-shrink-0">
             <span className="text-primary">June 2012 - July 2015</span>
