@@ -2,7 +2,7 @@ import React from "react";
 // npm install --save-dev @iconify/react @iconify/icons-simple-icons
 import { Icon } from "@iconify/react";
 import codesandboxIcon from "@iconify/icons-simple-icons/codesandbox";
-import { Link } from "react-router-dom";
+// import { Link } from "react-router-dom";
 
 const About = () => {
   return (
@@ -37,7 +37,11 @@ const About = () => {
           <a class="social-icon" href="https://twitter.com/home" target="blank">
             <i class="fab fa-twitter" />
           </a>
-          <a class="social-icon" href="https://codesandbox.io/u/amahock" target="blank">
+          <a
+            class="social-icon"
+            href="https://codesandbox.io/u/amahock"
+            target="blank"
+          >
             <Icon icon={codesandboxIcon} />
           </a>
         </div>
