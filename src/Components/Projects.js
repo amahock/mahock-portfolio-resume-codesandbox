@@ -8,15 +8,17 @@ const Projects = () => {
         <div className="d-flex flex-column flex-md-row justify-content-between mb-5">
           <div className="flex-grow-1">
             <h3 className="mb-0">Java Learning Site Creaton</h3>
-            <div className="subheading mb-3">
+            {/* <div className="subheading mb-3">
               FIS Global Information Systems
-            </div>
+            </div> */}
             <p>
-                Developing the learning site for Java programming language for beginners. 
-                It gives the better understanding for the beginners on Object Oriented Programming Language and the basics of Java languageand the syntax.
-                The documents are containing the examples for the topics explained and have some practice excersise.
+              Developing the learning site for Java programming language for
+              beginners. It gives the better understanding for the beginners on
+              Object Oriented Programming Language and the basics of Java
+              languageand the syntax. The documents are containing the examples
+              for the topics explained and have some practice excersise.
             </p>
-          You can access the site in heroku : 
+            You can access the site in heroku : <a href="https://techsite-learnjava.herokuapp.com/">Heroku application link</a>
           </div>
           {/* <div className="flex-shrink-0">
             <span className="text-primary">August 2015 - Present</span>
@@ -27,9 +29,11 @@ const Projects = () => {
             <h3 className="mb-0">Quiz Application Creation</h3>
             {/* <div className="subheading mb-3">Tata Consultancy Services</div> */}
             <p>
-              Developed a quiz application to test knowledge on the topics.
-              It will show the each questions results once it got submitted and also show the cumulative mark at the end of the quiz.
-              Also you can share the results through scocial media like facebook,whasapp, etc...
+              Developed a quiz application to test knowledge on the topics. It
+              will show the each questions results once it got submitted and
+              also show the cumulative mark at the end of the quiz. Also you can
+              share the results through scocial media like facebook,whasapp,
+              etc...
             </p>
           </div>
           {/* <div className="flex-shrink-0">

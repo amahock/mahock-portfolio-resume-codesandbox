@@ -16,17 +16,17 @@ const About = () => {
           maintenance and development in banking domain.
         </p>
         <div class="social-icons">
-          <a class="social-icon" href="#">
+          <a
+            class="social-icon"
+            href="https://www.linkedin.com/in/mahock-abraham-095aa537/"
+          >
             <i class="fab fa-linkedin-in" />
           </a>
-          <a class="social-icon" href="#">
+          <a class="social-icon" href="https://github.com/amahock">
             <i class="fab fa-github" />
           </a>
-          <a class="social-icon" href="#">
+          <a class="social-icon" href="https://twitter.com/home">
             <i class="fab fa-twitter" />
-          </a>
-          <a class="social-icon" href="#">
-            <i class="fab fa-facebook-f" />
           </a>
         </div>
       </div>
