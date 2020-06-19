@@ -27,6 +27,27 @@ const Skills = () => {
           <li className="list-inline-item">
             <i className="fab fa-npm" />
           </li>
+          <li className="list-inline-item">
+            <span
+              class="iconify"
+              data-icon="logos:mongodb"
+              data-inline="false"
+            />
+          </li>
+          <li className="list-inline-item">
+            <span
+              class="iconify"
+              data-icon="logos:express"
+              data-inline="false"
+            />
+          </li>
+          <li className="list-inline-item">
+            <span
+              class="iconify"
+              data-icon="logos:postgresql"
+              data-inline="false"
+            />
+          </li>
         </ul>
 
         <div className="subheading mb-3">
@@ -88,7 +109,7 @@ const Skills = () => {
             JMR
           </li>
         </ul>
-
+        <br />
         <div className="subheading mb-3">Workflow</div>
         <ul className="fa-ul mb-0">
           <li>

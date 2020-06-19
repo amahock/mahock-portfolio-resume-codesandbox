@@ -10,7 +10,7 @@ const Awards = () => {
             <span className="fa-li">
               <i className="fas fa-trophy text-warning" />
             </span>
-            Fullstack Developement Certificationfrom GUVI,IITM Chennai
+            Fullstack Developement Certification from GUVI,IITM Chennai
           </li>
           <li>
             <span className="fa-li">
@@ -22,7 +22,7 @@ const Awards = () => {
             <span className="fa-li">
               <i className="fas fa-trophy text-warning" />
             </span>
-            Awarded âOn The Spot Awardâ for excellent work and for the
+            Awarded "On The Spot Award" for excellent work and for the
             Automation - Tata Consultancy Services
           </li>
         </ul>

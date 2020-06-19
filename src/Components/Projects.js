@@ -49,6 +49,7 @@ const Projects = () => {
             <a href="https://abcschool-quiz-app.herokuapp.com/">
               Heroku Application Link
             </a>
+            <br/>
             <a href="https://github.com/amahock/quiz-app">Github Link</a>
           </div>
           {/* <div className="flex-shrink-0">
