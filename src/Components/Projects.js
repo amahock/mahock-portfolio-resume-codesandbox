@@ -73,7 +73,9 @@ const Projects = () => {
               will allow the user to login and check the bus and the
               availability of the seats.
             </p>
-            {/* <a href="https://abcschool-quiz-app.herokuapp.com/">Heroku Application Link</a> */}
+            <a href="https://mahock-bus-reservation-system.herokuapp.com/home">
+              Heroku Application Link
+            </a>
             {/* <a href="https://github.com/amahock/quiz-app">Github Link</a> */}
           </div>
           {/* <div className="flex-shrink-0">

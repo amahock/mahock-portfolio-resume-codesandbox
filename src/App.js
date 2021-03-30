@@ -25,7 +25,7 @@ export default function App() {
     <div className="App">
       <NavBar />
 
-      <div class="container-fluid p-0">
+      <div className="container-fluid p-0">
         <Switch>
           <Route path={routes.home}>
             <About />
